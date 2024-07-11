@@ -8,7 +8,7 @@ import java.util.function.Function;
 public class LambdaPractice implements AbstractClass {
     @Override
     public void method1() {
-        System.out.println("mk");
+        System.out.println("mkck");
     }
 
     public static void main(String[] args) {
