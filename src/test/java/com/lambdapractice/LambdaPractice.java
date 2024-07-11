@@ -8,11 +8,11 @@ import java.util.function.Function;
 public class LambdaPractice implements AbstractClass {
     @Override
     public void method1() {
-        System.out.println("mkck");
+        System.out.println("mkckk");
     }
 
     public static void main(String[] args) {
-        AbstractClass lambda = () -> {System.out.println("kh");
+        AbstractClass lambda = () -> {System.out.println("h");
             System.out.println("mmk");};
         lambda.method1();
         AbstractClass mk = new LambdaPractice();
